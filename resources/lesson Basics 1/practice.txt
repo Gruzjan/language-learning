@@ -1,5 +1,0 @@
-Which of these means water? [1] Junge [2] Brot [3] Wasser [4] Frau ;;3;;
-
-How do you say "A woman"? [1] Das Frau [2] Eine Frau [3] Ich Frau [4] Die Frau ;;2;;
-
-What is the correct translation of "it"? [1] Es [2] Sie [3] Er [4] ist ;;1;;
