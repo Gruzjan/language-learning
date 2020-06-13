@@ -1,0 +1,3 @@
+Which of these means "a boy"? [1] eine Junge [2] ein Mann [3] die Jung [4] ein Junge ;;4
+How do you say "girl"? [1] Ich [2] Mädchen [3] Frau [4] Brot ;;2
+Select the correct translation of "the man". [1] ein Man [2] ein Mann [3] der Mann [4] das Mann ;;3
