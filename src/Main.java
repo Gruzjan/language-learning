@@ -1,7 +1,9 @@
 import java.util.HashMap;
 import java.util.Scanner;
 /*
-TODO: lesson creator, modifier for admin
+admin account:
+login: admin
+password: a
  */
 
 public class Main {
